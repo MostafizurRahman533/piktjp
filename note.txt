@@ -1,0 +1,7 @@
+				Home page description 
+
+Menu bar 	:No dropdown menu with full responsive and position top fixed hover border fill left-right.
+Image slider	:Background image slider automatic with animation skewy frome to @keyfrem and no arrow or toggle button with text and logo popup.
+Text are 	: text-aling center
+card gellary 	: popup card gellary onclick with responsive
+	
